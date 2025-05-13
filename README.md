@@ -42,16 +42,5 @@ My mission? Leverage open infrastructure to unlock financial sovereignty and tra
 - **Twitter / X**: [@PyTcoin](https://twitter.com/PyTcoin)
 - **Mirror blog**: [mirror.xyz/yourENS](https://mirror.xyz/) *(replace with your ENS if available)*
 
----
-
-## 🏅 GitHub Stats & Web3 Badges *(Optional)*
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PyTcoin&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PyTcoin&layout=compact&theme=radical)
-
-<!-- Puedes agregar un badge de Zapper o DeBank usando shields.io o imágenes estáticas -->
-
----
-
 > *Code, capital, and community — composable, transparent, unstoppable.*  
 > 🦇🔊 Powered by Web3.
